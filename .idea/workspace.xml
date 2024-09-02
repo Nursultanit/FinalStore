@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab05884c-e113-4476-aa07-8c9a2176b4fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/mysite/Dokerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/doker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/nginx/Dokerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/nginx/nginx.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite" beforeDir="false" afterPath="$PROJECT_DIR$/mysite" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/store/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/store/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
